@@ -492,14 +492,14 @@ footer a:hover {
     font-size: 12px;
   }
   .newsletter .form input {
-    width: 200px;
     height: 40px;
-    font-size: 12px;
+    font-size: 9px;
   }
   .newsletter .form button {
-    width: 200px;
+    width: 100px;
     height: 40px;
-    font-size: 12px;
+    font-size: 9px;
+    padding: 5px 15px;
   }
   .section {
     padding: 0 30px;
@@ -1029,99 +1029,3 @@ footer a:hover {
     font-size: 18px;
   }
 }
-/*  
- @media (min-width:481px) and (max-width: 767px) { 
-    .navbar {
-      display: flex;
-      align-items: flex-start;
-      justify-content: flex-start;
-      flex-direction: column;
-      position: fixed;
-      top: 0;
-      right: -300px;
-      height: 100vh;
-      width: 300px;
-      background-color: #e3e6f3;
-      box-shadow: 0 40px 60px rgba(0, 0, 0, 0.01);
-      padding: 80px 0 0 10px;
-    }
-  .container {
-    display: flex;
-    justify-content: flex-start;
-    align-items: flex-start;
-    min-width: 100%;
-  }
-  .container img {
-    width: 100%;
-    margin-top: 40px;
-  }
-  .hero{
-    margin-top: 40px;
-  }
-  .hero h4 {
-    font-size: 15px;
-  }
-  .hero h2 {
-    font-size: 15px;
-    line-height: 35px;
-  }
-  .hero h1 {
-    font-size: 15px;
-    line-height: 35px;
-  }
-  .hero p{
-    font-size: 12px;
-  }
-  .hero button{
-      padding: 5px 15px;   
-      font-size: 10px; 
-  }
-  .active {
-    right: 0px;
-  }
-  .navbar li {
-    margin-bottom: 25px;
-  }
-  .mobile {
-    display: flex;
-    align-items: center;
-  }
-  .mobile img {
-    height: 30px;
-    padding-left: 20px;
-  }
-  .feature {
-    justify-content: center;
-  }
-  .feature-box {
-    margin: 15px 15px;
-  }
-  .pro-container {
-    justify-content: center;
-  }
-  .pro {
-    margin: 15px;
-  }
-  .banner {
-    height: 35vh;
-  }
-  .banner-box {
-    min-width: 100%;
-    height: 80vh;
-  }
-  .banner3 {
-    padding: 0 40px;
-  }
-  .boxes {
-    width: 28%;
-  }
-  .newsletter {
-    display: flex;
-    align-items: flex-start;
-    justify-content: flex-start;
-    flex-direction: column;
-  }
-  .form {
-    width: 70%;
-  }
- } */
