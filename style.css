@@ -450,7 +450,7 @@ footer a:hover {
   }
   .container img {
     height: 400px;
-    width: 500px;
+    width: 410px;
     margin-right: 50px;
   }
   .feature {
@@ -492,6 +492,7 @@ footer a:hover {
     font-size: 12px;
   }
   .newsletter .form input {
+    width: 150px;
     height: 40px;
     font-size: 9px;
   }
@@ -602,6 +603,7 @@ footer a:hover {
     width: 200px;
     height: 40px;
     font-size: 12px;
+    padding: 5px 20px;
   }
   .section {
     padding: 0 30px;
