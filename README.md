@@ -1,2 +1,2 @@
 # E-commerce
-http://localhost:5500/index.html
+https://e-commerce-web111.netlify.app
